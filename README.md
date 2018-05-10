@@ -6,7 +6,9 @@
 
 This geoviz module is depicting the dominant canopy tree species and percentage of that species for an area. 
 
-The landscape area of interest was based on a fire perimeter. The bubble chart shows that Lodgepole pine (LP) is the dominant canopy species occupying much of the landscape (in yellow). White Spruce Hybrid (SX) is another dominant species (in red), but covers much less area on the landscape compared to Lodgepole pine. Aspen (AT) is also dominant species (in blue), but Apsen occupies a very small portion of the landscape.
+The landscape area of interest was based on a fire perimeter. The bubble chart shows that Lodgepole pine (LP) is the dominant canopy species occupying much of the landscape (in yellow). White Spruce Hybrid (SX) is another dominant species (in red), but covers much less area on the landscape compared to Lodgepole pine. Aspen (AT) is also dominant species (in blue), but Apsen occupies a very small portion of the landscape. The url can be accessed [here](https://taluccia.github.io/geog4572.lab4.taluccia/index.html).
+
+
 
 ## 1\. Set up the workspace
 
